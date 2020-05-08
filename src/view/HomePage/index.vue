@@ -1,5 +1,5 @@
 <template>
-    <div class="home-page">首页
+    <div class="home-page">
         <Swiper></Swiper>
     </div>
 
